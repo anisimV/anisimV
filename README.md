@@ -12,7 +12,7 @@
 <h3>Обучение и наработки:</h3>
 <ul>
     <pre><li type="none">🐘 <a href="https://github.com/anisimV/lesson.php">Начало обучения</a></li></pre>
-    <pre><li type="none">🟣 <a href="https://github.com/anisimV/practicePHP">Решение задач</a></li></pre>
+    <pre><li type="none">🟧<a href="https://github.com/anisimV/practicePHP">Решение задач</a></li></pre>
     <pre><li type="none">🟢 <a href="https://github.com/anisimV/phpOOP">Изучаю OOP</a></li></pre>
     <pre><li type="none">🟠 <a href="https://github.com/anisimV/firstProject">Первый мини-проект</a></li></pre>
     <pre><li type="none">⬛ <a href="https://github.com/anisimV/headsAndTails">Орел и Решка</a></li></pre>
@@ -20,8 +20,8 @@
 <h3>Тестовые задания:</h3>
 <ul>
      <pre><li type="none">🟡 <a href="https://github.com/anisimV/testTask">Тестовое задание_1</a><p>Скрипт, Принимает данные с формы, валидирует и отпрвляет на почту / БД</li></p></pre>
-     <pre><li type="none">🟤 <a href="https://github.com/anisimV/testTask_orchard">Тестовое задание. Фруктовый сад. OOP</a></li></pre>
-     <pre><li type="none">🔵 <a href="https://github.com/anisimV/testTask_3">Тестовое задание_3</a></li></pre>
-     <pre><li type="none">🔴 <a href="https://github.com/anisimV/testTask_4">Тестовое задание_4</a></li></pre>
+     <pre><li type="none">🟤 <a href="https://github.com/anisimV/testTask_orchard">Тестовое задание. Фруктовый сад. OOP</a><p>Прототип сборщика фруктов </p></li></pre>
+     <pre><li type="none">🔵 <a href="https://github.com/anisimV/testTask_3">Тестовое задание_3</a><p>Написать формы регистрации, авторизации, страницу профиля</p></li></pre>
+     <pre><li type="none">🔴 <a href="https://github.com/anisimV/testTask_4">Тестовое задание_4</a><p>Вывести в табличном виде данные из таблицы</p></li></pre>
 </ul>
 
